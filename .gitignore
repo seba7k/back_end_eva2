@@ -1,0 +1,9 @@
+# Entorno virtual
+/eva2/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
